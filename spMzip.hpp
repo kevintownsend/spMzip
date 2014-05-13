@@ -21,6 +21,6 @@
 
 using namespace std;
 
-void rowToGRMLCM(uint64_t* I, uint64_t* J, double* V, uint64_t M, uint64_t N, uint64_t nnz){
-}
+void rowToGRMLCM(uint64_t* I, uint64_t* J, double* V, uint64_t M, uint64_t N, uint64_t nnz);
+
 
